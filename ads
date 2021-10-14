@@ -4,13 +4,13 @@
 
 "linktwo":"https://images.google.com/",
 
-"appId":"",
+"appId":"ca-app-pub-6602096076242948~1027223864",
 
-"banner":"",
+"banner":"ca-app-pub-6602096076242948/5937109071",
 
-"interstial":"",
+"interstial":"ca-app-pub-6602096076242948/9230320970",
 
-"AppOpen":"",
+"AppOpen":"ca-app-pub-6602096076242948/8638475799",
 
 "linkbackup":"https://aratpm.github.io/ThKar/",
 
