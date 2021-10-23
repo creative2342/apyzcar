@@ -1,6 +1,6 @@
 {"status":true,
 
-"linkone":"https://images.google.com/",
+"linkone":"https://aratpm.github.io/apykrassunmainsc/",
 
 "linktwo":"https://images.google.com/",
 
