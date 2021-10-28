@@ -1,6 +1,6 @@
 {"status":true,
 
-"linkone":"https://aratpm.github.io/apykrassunmainsc/",
+"linkone":"https://aratpm.github.io/ak6/",
 
 "linktwo":"https://images.google.com/",
 
@@ -12,7 +12,7 @@
 
 "AppOpen":"ca-app-pub-6602096076242948/8638475799",
 
-"linkbackup":"https://aratpm.github.io/ThKar/",
+"linkbackup":"https://aratpm.github.io/ak6/",
 
 "title":"Update Available!",
 
