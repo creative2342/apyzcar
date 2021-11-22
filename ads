@@ -1,6 +1,6 @@
 {"status":true,
 
-"linkone":"https://aratpm.github.io/apyvi/",
+"linkone":"https://aratpm.github.io/repa/",
 
 "linktwo":"https://images.google.com/",
 
